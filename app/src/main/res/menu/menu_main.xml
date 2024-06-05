@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+    <item
+        android:id="@+id/actions_city"
+        android:title="City"
+        android:icon="@drawable/baseline_location_city_24" />
+    <item
+        android:id="@+id/action_location"
+        android:title="Location"
+        android:icon="@drawable/outline_airline_seat_individual_suite_24" />
+    <item
+        android:id="@+id/action_personal"
+        android:title="Personal"
+        android:icon="@drawable/baseline_accessibility_new_24" />
+</menu>
